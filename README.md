@@ -8,7 +8,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://669d397a28818d4eb04f9f2a--abhyuday767.netlify.app/).
 
 ---
 

@@ -1,6 +1,6 @@
 export const personalData = {
   name: "ABHYUDAY SULTANIA",
-  profile: '/public\\profile.png',
+  profile: 'C:/Users/Abhyuday/OneDrive/Desktop/developer-portfolio-main/publi/profile.png',
   designation: "Software Developer",
   description: "My name is Abhyuday Sultania, and I am a dedicated and passionate programmer. I pride myself on being a quick learner with a strong self-learning attitude, always eager to explore and master new technologies. Problem-solving is my passion, and I enjoy working with various stacks in web application development, striving to make the web more accessible to everyone. My core expertise lies in JavaScript, and I relish the opportunity to tackle diverse challenges using this versatile language. I am open to any job opportunities that align with my skills and interests.",
   email: 'abhyuday767@gmail.com',

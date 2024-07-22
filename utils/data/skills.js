@@ -13,8 +13,6 @@ export const skillsData = [
   //'PostgreSQL',
   'Git',
   'Pytorch',
-  'Jupyter Notebook',
-  'Colab',
   'opencv',
   'numpy',
   'kotlin'
